@@ -4,11 +4,14 @@ This Python tool can generate a password from your name and hash your password.
 
 ```text
 .sha256
+
 # Example
 '''bash
 Enter your nickname or name: salehhappyprogrammer
+
 '''bash
 Generated password: Your_new_password
+
 '''bash
 Do you want to convert the password to a SHA-256 hash? (yes/no):
 
